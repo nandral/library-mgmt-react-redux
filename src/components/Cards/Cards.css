@@ -1,0 +1,68 @@
+.container {
+    overflow: auto;
+}
+  
+
+.card {
+    padding-top: 25px;
+    border-bottom: solid 1px rgba(60, 63, 81, 0.2);
+    font-size: 14px;
+    display:flex;
+}
+
+.cardText{
+    flex-basis: 60%;
+}
+
+.border {
+    border: solid 5px #007ac9;
+    width: 24px;
+}
+
+.title {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 0;
+    background: none;
+    padding: 0;
+
+}
+.author {
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.border {
+    margin: 20px 0;
+}
+.contact {
+    margin-bottom: 10px;
+}
+
+.category {
+    margin-bottom: 10px;
+}
+
+.namelabel {
+    color: rgba(60, 63, 81, 0.75);
+    font-size: 12px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.description {
+    margin-top: 10px;
+    text-justify: inter-word;
+    text-align:justify;
+}
+
+.imgDiv{
+    flex-basis: 40%;
+}
+
+.img{
+    padding:1.5rem;
+    height: 18rem;
+}

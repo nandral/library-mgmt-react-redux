@@ -1,0 +1,35 @@
+.app-content {
+  flex: 1 0 auto;
+  padding: 1em 1em;
+}
+
+.app-content>.file {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  height: 100%;
+}
+
+.app-content>.file>.navigation-bar {
+  padding: 1em;
+  flex: 1 0px;
+  border-right: 1px dotted #9E9E9E;
+  height: 100%;
+}
+
+.app-content>.file>.navigation-bar>.navigation-bar-link {}
+
+.app-content>.file>.content-panels {
+  display: flex;
+  flex-flow: row;
+  padding: 1em;
+  flex: 3 0px;
+}
+
+.app-content>.file>.content-panels>.text-panel {
+  flex: 2 0px;
+}
+
+.aapp-content>.file>.content-panels>.action-panel {
+  flex: 1 0px;
+}

@@ -1,0 +1,24 @@
+:root {
+  --header-background: #424242;
+  --header-text: #FAFAFA;
+  --content-background: #FAFAFA;
+  --content-text: #000000;
+  --footer-background: #424242;
+  --footer-text: #FAFAFA;
+  --content-margin-top: 1em;
+}
+
+html {
+  height: 100%;
+  font: normal 16px 'Open Sans', sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}

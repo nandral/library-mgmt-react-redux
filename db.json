@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "title": "More Than a LIFE",
+      "author": "SADHGURU",
+      "description": "More than a Life is an extraordinary story of Sadhguru, a young agnostic who turned yogi and a spiritual guru for millions of people all around the world. The author attempts to re-create the life of an exceptional man as he combines rationality with mysticism and ancient wisdom with contemporary and modern outlook.",
+      "category": "Biography",
+      "formats": [
+        "paperback",
+        "hardcover"
+      ],
+      "published": "Jan 2015",
+      "active": true,
+      "id": 1,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51WNPe-6mpL._SX324_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "You Can Win",
+      "author": "Shiv Khera",
+      "description": "An easy-to-read, practical, common-sense guide that will take you from ancient wisdom to modern-day thinking, You Can Win helps you establish new goals, develop a new sense of purpose, and generate new ideas about yourself and your future. It guarantees, as the title suggests, a lifetime of success.",
+      "category": "Self-Help",
+      "formats": [
+        "paperback",
+        "hardcover",
+        "eBook"
+      ],
+      "published": "2000",
+      "active": true,
+      "id": 2,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41iyWT8UrVL._SX322_BO1,204,203,200_.jpg"
+    },
+    {
+      "title": "Java 1.4",
+      "author": "Khalid Mughal",
+      "description": "SCJP 1.4 certification guide.",
+      "category": "Technical",
+      "formats": [
+        "paperback"
+      ],
+      "published": "1995",
+      "active": false,
+      "id": 3
+    },
+    {
+      "title": "Oracle 9i SQL",
+      "author": "Oracle",
+      "description": "SQL, PL-SQL.",
+      "category": "Technical",
+      "formats": [
+        "paperback"
+      ],
+      "published": "1995",
+      "active": true,
+      "id": 4
+    },
+    {
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford ",
+      "description": "With JavaScript: The Good Parts, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must.",
+      "category": "Technical",
+      "formats": [
+        "paperback"
+      ],
+      "published": "May 2008",
+      "active": true,
+      "id": 5,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg"
+    }
+  ],
+  "mostReadBooks": [
+    1,
+    2,
+    5
+  ],
+  "trendingIn2018": [
+    2
+  ]
+}
